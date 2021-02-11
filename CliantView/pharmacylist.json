@@ -1,0 +1,30 @@
+[
+    {
+        "name": "pmd pharmacy",
+        "place": {
+            "lat": -6.81625,
+            "lng": 39.27986
+        },
+        "address": "DSM Ilala City Mall, Bibi Titi/ Morogoro Road",
+        "tel": null,
+        "open": null
+    },{
+        "name": "Positive international",
+        "place": {
+            "lat": -6.8174388,
+            "lng": 39.275582
+        },
+        "address": "Sikukuu St, Dar es Salaam",
+        "tel": null,
+        "open": null
+    },{
+        "name": "Afya Bora Pharma Ltd",
+        "place": {
+            "lat": -6.8177007,
+            "lng": 39.2748588
+        },
+        "address": "Mkunguni Street Dar es Salaam TZ, 9621",
+        "tel": "+255699477245",
+        "open": "08:00 ~ 18:00"
+    }
+]
