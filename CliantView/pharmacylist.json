@@ -26,5 +26,77 @@
         "address": "Mkunguni Street Dar es Salaam TZ, 9621",
         "tel": "+255699477245",
         "open": "08:00 ~ 18:00"
+    },{
+        "name": "melody pharma",
+        "place": {
+            "lat": -6.818982,
+            "lng": 39.2788065
+        },
+        "address": "Narung'ombeStreet, Dar es Salaam",
+        "tel": null,
+        "open": null
+    },{
+        "name": "Heko Pharmacy Limited",
+        "place": {
+            "lat": -6.8197721,
+            "lng": 39.2763048
+        },
+        "address": "Narung'ombeStreet, Dar es Salaam",
+        "tel": null,
+        "open": null
+    },{
+        "name": "Patron pharmacy",
+        "place": {
+            "lat": -6.8191267,
+            "lng": 39.272941
+        },
+        "address": "Mafia St, Dar es Salaam",
+        "tel": null,
+        "open": null
+    },{
+        "name": "DM Pharmacy Livingstone",
+        "place": {
+            "lat": -6.8160589,
+            "lng": 39.276247
+        },
+        "address": "LivingStone, Amani St, Dar es Salaam",
+        "tel": "+255684271783",
+        "open": "ALL TIME"
+    },{
+        "name": "All care medics",
+        "place": {
+            "lat": -6.814269,
+            "lng": 39.2738246
+        },
+        "address": "Faru St, Dar es Salaam",
+        "tel": null,
+        "open": "08:00 ~ 17:00"
+    },{
+        "name": "JD Pharmacy",
+        "place": {
+            "lat": -6.8139729,
+            "lng": 39.277508
+        },
+        "address": "MOROGOR RD &, Lumumba St",
+        "tel": null,
+        "open": "08:00 ~ 20:00"
+    },{
+        "name": "Aquiline Pharmacy",
+        "place": {
+            "lat": -6.8178395,
+            "lng": 39.2728541
+        },
+        "address": "59 Congo St, Dar es Salaam",
+        "tel": null,
+        "open": null
+    },{
+        "name": "Amazon Pharmacy",
+        "place": {
+            "lat": -6.8179875,
+            "lng": 39.277336
+        },
+        "address": "livingstone no: 47, Mkunguni St, Dar es Salaam",
+        "tel": "+255222180334",
+        "open": "09:00 ~ 17:00"
     }
 ]
